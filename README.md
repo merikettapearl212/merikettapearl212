@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merikettapearl212)
-
-
+![header](https://drive.google.com/file/d/1TkRv5AV7TWl80pYO1fAtVSasKbaDK0Tl/view)
 <!--
 **merikettapearl212/merikettapearl212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
