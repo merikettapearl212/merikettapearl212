@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/merikettapearl212&repo=github-readme-stats)](https://github.com/merikettapearl212/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=merikettapearl212)](https://github.com/merikettapearl212/github-readme-stats)
+
 
 <!--
 **merikettapearl212/merikettapearl212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
