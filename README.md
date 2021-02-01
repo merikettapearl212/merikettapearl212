@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](assets/imgs/mjamegif.gif =250x250) 
+ 
+<img src="assets/imgs/mjamegif.gif" width="250" height="250"/>
 <!--
 **merikettapearl212/merikettapearl212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
