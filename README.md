@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?merikettapearl212=<merikettapearl212>&theme=<THEME_NAME>" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?merikettapearl212=merikettapearl212=github-readme-stats)](https://github.com/merikettapearl212/github-readme-stats)
 
 <!--
 **merikettapearl212/merikettapearl212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
