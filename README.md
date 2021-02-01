@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://drive.google.com/file/d/1TkRv5AV7TWl80pYO1fAtVSasKbaDK0Tl/view)
+![header](assets/imgs/mjamegif.gif)
 <!--
 **merikettapearl212/merikettapearl212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
